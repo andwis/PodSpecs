@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PodSpecsLibrary
 
 [![CI Status](http://img.shields.io/travis/andwis158/PodSpecsLibrary.svg?style=flat)](https://travis-ci.org/andwis158/PodSpecsLibrary)
@@ -27,3 +28,6 @@ andwis158, 15806084531@139.com
 ## License
 
 PodSpecsLibrary is available under the MIT license. See the LICENSE file for more info.
+=======
+# PodSpecs
+>>>>>>> 9772ad00d2a4479d13770ed986da53f1b7a1cbc4

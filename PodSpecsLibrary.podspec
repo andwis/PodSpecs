@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'PodSpecsLibrary'
+  s.name             = 'PodSpecs'
   s.version          = '0.1.0'
   s.summary          = 'A short description of PodSpecsLibrary.'
 
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/PodSpecsLibrary'
+  s.homepage         = 'https://github.com/andwis/PodSpecs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'andwis158' => '15806084531@139.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/PodSpecsLibrary.git', :tag => s.version.to_s }
+  s.author           = { 'andwis' => 'andwis@126.com' }
+  s.source           = { :git => 'https://github.com/andwis/PodSpecs.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
